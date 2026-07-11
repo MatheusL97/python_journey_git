@@ -1,6 +1,6 @@
 🚀 Progresso Geral
 
-███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 23.3%
+████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 26,64%
 
 7 de 30 desafios concluídos.
 
@@ -37,7 +37,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 05 - Sistema login
 - [x] Desafio 06 - Menu interativo
 - [x] Desafio 07 - Lista de compras
-- [ ] Desafio 08 - Contador de Vogais
+- [x] Desafio 08 - Contador de Vogais
 - [ ] Desafio 09 - Gerador de Senhas
 - [ ] Desafio 10 - Caixa Eletrônico
 
@@ -46,7 +46,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 ## 🔵 Módulo 2 - Python Intermediário
 
 - [ ] Funções
-- [ ] Listas
+- [x] Listas
 - [ ] Tuplas
 - [ ] Dicionários
 - [ ] Arquivos
