@@ -1,4 +1,4 @@
-# 📚 Aula 06 - Manipulação de Listas
+# 📚 Aula 09 - Manipulação de Listas
 
 ## 🎯 Objetivo
 

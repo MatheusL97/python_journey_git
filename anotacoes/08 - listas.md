@@ -1,4 +1,4 @@
-# 📚 Aula 05 - Listas (`list`)
+# 📚 Aula 08 - Listas (`list`)
 
 ## 🎯 Objetivo
 
