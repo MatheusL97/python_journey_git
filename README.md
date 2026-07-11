@@ -37,7 +37,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 05 - Sistema login
 - [x] Desafio 06 - Menu interativo
 - [x] Desafio 07 - Lista de compras
-- [x] Desafio 08 - Contador de Vogais
+- [x] Desafio 08 - Gerenciador de Lista de Compras
 - [ ] Desafio 09 - Gerador de Senhas
 - [ ] Desafio 10 - Caixa Eletrônico
 
