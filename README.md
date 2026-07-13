@@ -2,7 +2,7 @@
 
 █████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 53,28%
 
-7 de 30 desafios concluídos.
+14 de 30 desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
 
