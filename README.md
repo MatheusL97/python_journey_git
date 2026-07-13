@@ -38,14 +38,21 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 06 - Menu interativo
 - [x] Desafio 07 - Lista de compras
 - [x] Desafio 08 - Gerenciador de Lista de Compras
-- [ ] Desafio 09 - Gerador de Senhas
-- [ ] Desafio 10 - Caixa Eletrônico
+- [x] Desafio 09 - Gerenciador de Lista de Compras com FOR
+- [x] Desafio 10 - Gerenciador de Lista de Compras com FOR versão 2
+- [x] Desafio 11 - Gerenciador de Lista de Compras com FUNÇOES
+- [x] Desafio 12 - Cadastro de alunos com FUNÇOES e PARAMETROS
+- [x] Desafio 13 - Calculadora com RETURN
+- [x] Desafio 11 - Gerenciador de Lista com escopo de variaveis
+
+
+
 
 ---
 
 ## 🔵 Módulo 2 - Python Intermediário
 
-- [ ] Funções
+- [x] Funções
 - [x] Listas
 - [ ] Tuplas
 - [ ] Dicionários
