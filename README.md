@@ -1,8 +1,7 @@
 🚀 Progresso Geral
 
-█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 53,28%
-
-16 de 30 desafios concluídos.
+█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 56,61
+17 de 30 desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
 
@@ -46,6 +45,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 14 - Gerenciador de Lista com escopo de variaveis
 - [x] Desafio 15 - Verificar Media com return
 - [x] Desafio 16 - Calculadora com import(modulo)
+- [x] Desafio 17 - Vizualizar estados com tuplas.
 
 
 
@@ -56,7 +56,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 
 - [x] Funções
 - [x] Listas
-- [ ] Tuplas
+- [x] Tuplas
 - [ ] Dicionários
 - [ ] Arquivos
 - [ ] Tratamento de Exceções
