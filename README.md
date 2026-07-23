@@ -1,6 +1,6 @@
 🚀 Progresso Geral
 
-███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 63,27
+███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 66,66
 19 de 30 desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
@@ -48,6 +48,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 17 - Vizualizar estados com tuplas.
 - [x] Desafio 18 - Cadastro de livro (dicionario).
 - [x] Desafio 19 - Cadastro de aluno com dicionarios e get()
+- [x] Desafio 20 - Cadastro de aluno com listas em dicionarios.
 
 
 
