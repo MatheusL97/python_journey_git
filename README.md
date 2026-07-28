@@ -1,7 +1,7 @@
 🚀 Progresso Geral
 
-████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░ 76,59
-23 de 30 desafios concluídos.
+████████████████████████████████████░░░░░░░░░░░░░░░░░░░ 86,58
+26 de 30 desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
 
@@ -52,7 +52,9 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 21 - Diario de estudos (manipulação de arquivos).
 - [x] Desafio 22 - Lista de presença (ler linha por linha arquivo txt)
 - [x] Desafio 23 - Cadastro de produtos (criando arquivo CSV e lendo-os)
-
+- [x] Desafio 24 - Manipulando Arquivos CSV com a Biblioteca csv
+- [x] Desafio 25 - ignorando cabeçalho com next()
+- [x] Desafio 26 - Lendo_arquivosCSV_com_DictReader()
 
 
 ---
