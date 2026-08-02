@@ -1,6 +1,6 @@
 🚀 Progresso Geral
 
-████████████████████████████████████░░░░░░░░░░░░░░░░░░░ 86,58
+█████████████████████████████████████░░░░░░░░░░░░░░░░░░ 89,91
 26 de 30 desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
@@ -54,7 +54,8 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 23 - Cadastro de produtos (criando arquivo CSV e lendo-os)
 - [x] Desafio 24 - Manipulando Arquivos CSV com a Biblioteca csv
 - [x] Desafio 25 - ignorando cabeçalho com next()
-- [x] Desafio 26 - Lendo_arquivosCSV_com_DictReader()
+- [x] Desafio 26 - Lendo arquivosCSV com DictReader()
+- [x] Desafio 27 - calculando valor estoque
 
 
 ---
