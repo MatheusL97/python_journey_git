@@ -1,7 +1,7 @@
 🚀 Progresso Geral
 
-█████████████████████████████████████░░░░░░░░░░░░░░░░░░ 89,91
-26 de 30 desafios concluídos.
+█████████████████████████████████████░░░░░░░░░░░░░░░░░░ 70%
+30 de X desafios concluídos.
 
 # 🐍 Python do Zero à Primeira Vaga
 
@@ -27,7 +27,7 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 
 # 📚 Roadmap de Estudos
 
-## 🟢 Módulo 1 - Fundamentos
+## 🟢 Módulo 1 — Fundamentos de Python
 
 - [x] Desafio 01 - Calculadora
 - [x] Desafio 02 - Conversor de Temperatura
@@ -49,6 +49,14 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 18 - Cadastro de livro (dicionario).
 - [x] Desafio 19 - Cadastro de aluno com dicionarios e get()
 - [x] Desafio 20 - Cadastro de aluno com listas em dicionarios.
+- [x] Funções
+- [x] Listas
+- [x] Tuplas
+- [x] Dicionários
+
+---
+
+## 🔵 Módulo 2 — Arquivos e Dados com Python
 - [x] Desafio 21 - Diario de estudos (manipulação de arquivos).
 - [x] Desafio 22 - Lista de presença (ler linha por linha arquivo txt)
 - [x] Desafio 23 - Cadastro de produtos (criando arquivo CSV e lendo-os)
@@ -56,58 +64,77 @@ O objetivo é evoluir diariamente por meio de desafios práticos, registrando n�
 - [x] Desafio 25 - ignorando cabeçalho com next()
 - [x] Desafio 26 - Lendo arquivosCSV com DictReader()
 - [x] Desafio 27 - calculando valor estoque
+- [x] Desafio 28 - produto com maior estoque
+- [x] Desafio 29 - produto mais caro e mais barato
+- [x] Desafio 30 - valor total do estoque
+- [x].txt
+- [x]CSV
+- [x]csv.reader
+- [x]DictReader
+- [x]tratamento de dados
+- [x]cálculos e análises.
 
 
 ---
 
-## 🔵 Módulo 2 - Python Intermediário
+## 🟣 Módulo 3 - Python Intermediário
 
-- [x] Funções
-- [x] Listas
-- [x] Tuplas
-- [x] Dicionários
-- [ ] Arquivos
-- [ ] Tratamento de Exceções
-
----
-
-## 🟣 Módulo 3 - Orientação a Objetos
-
-- [ ] Classes
-- [ ] Objetos
-- [ ] Herança
-- [ ] Encapsulamento
-- [ ] Polimorfismo
+- [ ] exceções
+- [ ] funções mais avançadas
+- [ ] compreensão de listas
+- [ ] módulos e pacotes
+- [ ] boas práticas.
 
 ---
 
-## 🟠 Módulo 4 - Banco de Dados
+## 🟠 Módulo 4 - Análise de Dados
 
-- [ ] SQLite
-- [ ] CRUD
-- [ ] SQL
-
----
-
-## 🔴 Módulo 5 - APIs
-
-- [ ] Flask
-- [ ] JSON
-- [ ] Requests
-- [ ] APIs REST
+- [ ] NumPy
+- [ ] Pandas
+- [ ] limpeza de dados
+- [ ] tratamento de valores ausentes
+- [ ] filtros
+- [ ] groupby
+- [ ] agregações
+- [ ] estatística básica
+- [ ] gráficos com Matplotlib
+- [ ] projetos de análise.
 
 ---
 
-## ⚫ Módulo 6 - Projetos
+## 🔴 Módulo 5 - SQL
 
-- [ ] Sistema Bancário
-- [ ] Controle Financeiro
-- [ ] Agenda
-- [ ] Biblioteca
-- [ ] Estoque
-- [ ] API Completa
+- [ ] MySQL
+- [ ] SELECT
+- [ ] WHERE
+- [ ] GROUP BY
+- [ ] JOIN
+- [ ] subqueries
+- [ ] funções de agregação
+- [ ] análise de dados com SQL.
 
 ---
+
+## ⚫ Módulo 6 - Power BI
+
+- [ ] importação
+- [ ] tratamento
+- [ ] relacionamentos
+- [ ] DAX
+- [ ] KPIs
+- [ ] dashboards
+- [ ] storytelling com dados.
+
+---
+
+## ⚫ Módulo 7 - Projetos de Portfólio
+
+- [ ] projeto Python
+- [ ] projeto SQL
+- [ ] projeto Pandas
+- [ ] projeto Power BI
+- [ ] projeto completo Python + SQL + Power BI.
+
 
 # 📁 Estrutura do Repositório
 
